@@ -1,3 +1,6 @@
+message = "Hello from my first Git repo"
+print(message)
+
 # We vragen iets aan de gebruiker
 naam = input("Wat is je naam? ")
 
