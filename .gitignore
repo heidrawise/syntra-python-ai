@@ -4,6 +4,7 @@
 # Python cache bestanden
 __pycache__/
 *.pyc
+*.temp
 
 # VS Code instellingen
 .vscode/
